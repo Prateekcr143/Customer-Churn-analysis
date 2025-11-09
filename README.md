@@ -71,5 +71,4 @@ If you wish to extend the work, you can add predictive modelling (e.g., logistic
 # Authors 
 Author: Prateek 
 Thank you to any contributors, dataset providers or mentors who supported this work.
-License
-This project is open for educational and research purposes. Please cite appropriately if you use or extend it.
+
